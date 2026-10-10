@@ -7,10 +7,11 @@ Java 后端与 AI 应用实践。
 ## 项目
 
 - [Kewei AI Agent](https://github.com/keweizhuazuki/kewei-ai-agent)：Spring Boot + Spring AI 实践，包含聊天、RAG、工具调用、MCP、记忆与 SSE。
-- [ChatGPT Jump](https://github.com/keweizhuazuki/chatgpt-jump)：Tampermonkey 对话导航脚本，快速跳回长对话中的提问。
 欢迎用可复现的 bug、反例和改进建议交流。
 
 ## 更新记录
+
+- 2026-10-10：根据仓库可见性更新公开项目列表。
 
 - 2026-10-10：补充默认英文 README 与独立中文文档、仓库导航和后续计划。本次仅更新文档，不代表新增程序功能或通过运行验证。
 
